@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **reginaldomcv@gmail.com**
 
-- 📄 Know about my experiences [Honda, LG, Samsung](Honda, LG, Samsung)
+- 📄 Know about my experiences in **Honda, LG and Samsung**
 
-- ⚡ Personality **I am a very serious and dedicated person**
+- ⚡ Personality: **I am a very serious and dedicated person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
