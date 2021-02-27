@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Cop in Military Police**
 
-- 🌱 I’m currently learning **NodeJS and AngularJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **PHP, Java and Databases**
 
