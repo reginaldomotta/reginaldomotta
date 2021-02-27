@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences in **Honda, LG and Samsung**
 
-- ⚡ Personality: **I am a very serious and dedicated person**
+- ⚡ Personality: **I'm a very serious and dedicated person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
