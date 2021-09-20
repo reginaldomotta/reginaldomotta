@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/reginaldomotta_" target="blank"><img src="https://img.shields.io/twitter/follow/reginaldomotta_?logo=twitter&style=for-the-badge" alt="reginaldomotta_" /></a> </p>
 
-- 🔭 I’m currently working on **Cop in Military Police**
+- 🔭 I’m currently working on **Backend Developer Freelancer**
 
 - 🌱 I’m currently learning **NodeJS**
 
