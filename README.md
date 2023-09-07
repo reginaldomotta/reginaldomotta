@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **NodeJS, PHP and Databases**
+- 💬 Ask me about **NodeJS, Ionic and Databases**
 
 - 📫 How to reach me **reginaldomcv@gmail.com**
 
-- 📄 Know about my experiences in **Honda, LG and Samsung**
+- 📄 Know about my experiences in **Honda, LG, Samsung and Shift**
 
 - ⚡ Personality: **I'm a very serious and dedicated person**
 
@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/reginaldomotta_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="reginaldomotta_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/reginaldomcv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reginaldomcv" height="30" width="40" /></a>
-<a href="https://fb.com/reginaldomotta22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="reginaldomotta22" height="30" width="40" /></a>
 <a href="https://instagram.com/reginaldomotta_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reginaldomotta_" height="30" width="40" /></a>
 </p>
 
