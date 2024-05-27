@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Reginaldo (OverMage) Motta</h1>
 <h3 align="center">A dedicated backend developer from Brazil (AM)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reginaldomcv&label=Profile%20views&color=0e75b6&style=flat" alt="reginaldomcv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reginaldomotta" alt="reginaldomcv" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/reginaldomotta_" target="blank"><img src="https://img.shields.io/twitter/follow/reginaldomotta_?logo=twitter&style=for-the-badge" alt="reginaldomotta_" /></a> </p>
+<p align="center">
+  <a href="https://github.com/reginaldomotta/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/reginaldomotta/github-profile-trophy"/>
+  </a>
+  <a href="https://github.com/reginaldomotta/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/reginaldomotta/github-profile-trophy"/>
+  </a>
+  <a href="https://github.com/reginaldomotta/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/reginaldomotta/github-profile-trophy"/>
+  </a>
+    <a href="https://github.com/reginaldomotta/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/reginaldomotta/github-profile-trophy"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Backend Developer Freelancer**
 
