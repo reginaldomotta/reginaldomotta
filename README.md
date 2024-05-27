@@ -16,6 +16,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=reginaldomotta&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 - 🔭 I’m currently working on **Backend Developer Freelancer**
 
 - 🌱 I’m currently learning **NodeJS**
