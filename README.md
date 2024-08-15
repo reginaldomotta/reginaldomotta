@@ -45,7 +45,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reginaldomotta&show_icons=true&locale=en&layout=compact" alt="reginaldomotta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reginaldomotta&show_icons=true&locale=en" alt="reginaldomotta" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=reginaldomotta&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=300" alt="GitHub Streak" /></a>
 
