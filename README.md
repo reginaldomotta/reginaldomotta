@@ -47,5 +47,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reginaldomotta&show_icons=true&locale=en" alt="reginaldomotta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reginaldomotta&" alt="reginaldomcv" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=reginaldomotta&theme=merko&hide_border=true&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
