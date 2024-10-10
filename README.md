@@ -3,10 +3,10 @@
 
 <div align="center">
 
-[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/blob/master/LICENSE)
+[![stargazers](https://img.shields.io/github/stars/reginaldomotta/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/reginaldomotta/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/reginaldomotta/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/reginaldomotta/github-profile-trophy)](https://github.com/reginaldomotta/github-profile-trophy/blob/master/LICENSE)
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Freginaldomotta%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Freginaldomotta%2Fgithub-profile-trophy)
 
 </div>
